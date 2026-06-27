@@ -1,4 +1,6 @@
 {
   "version": "1.0.0",
-  "url": "https://github.com/IveronDev/JustaApp/releases/download/v1.0.0/JustaApp.zip"
+  "url": "https://github.com/IveronDev/JustaApp/releases/download/v1.0.0/JustaApp.zip",
+  "mandatory": false,
+  "notes": "Primera version oficial"
 }
